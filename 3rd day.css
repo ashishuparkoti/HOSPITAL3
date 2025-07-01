@@ -1,0 +1,39 @@
+tr:hover{
+    background-color:rgb(209, 209, 209);
+    cursor: pointer;
+
+
+}
+table{
+    width: 80%;
+    height: 300px;
+    border: 2px solid black;
+    margin: auto;
+}
+th,td{
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+}
+.nav:hover{
+    background-color:rgb(236, 102, 102);
+    cursor: pointer;
+
+}
+
+.btn{
+ font-family:cursive;
+ margin:0px 9px;
+ background-color:rgb(red, green, blue);
+ color:rgb(210, 225, 212);
+ padding: 4px 10px;
+ border:2px solid grey;
+ border-radius:14px;
+ font-size:20px;
+ cursor: pointer;
+}
+.btn:hover{
+    background-color:rgb(87, 209, 39);
+     cursor: pointer;
+}
+
